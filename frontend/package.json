@@ -1,0 +1,13 @@
+{
+  "name": "dattri-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Disha – Mini AI Health Coach",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
