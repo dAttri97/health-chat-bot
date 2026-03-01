@@ -1,4 +1,4 @@
-# Dattri – Mini AI Health Coach
+# Mini AI Health Coach
 
 A chat-based mini AI health coach built for the **Curelink Backend Engineer Take-Home**. Simulates a WhatsApp-like single-session chat where an AI health coach answers user questions using a real LLM API, with support for context overflow handling, long-term memory, and protocol-based responses.
 
