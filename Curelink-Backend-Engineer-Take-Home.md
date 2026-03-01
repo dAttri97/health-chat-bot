@@ -1,8 +1,6 @@
-# Curelink – Backend Engineer Take‑Home
+# Backend Engineer Take‑Home Test
 
 ## Context
-
-We are building **Disha**, India's first AI health coach.
 
 For this assignment, you'll build a mini AI health coach on chat. This is very close to what you'd work on as a backend engineer at Curelink.
 
@@ -59,46 +57,4 @@ Build a small web app that simulates a chat where an AI health coach answers use
   1. **Older long-term memories** for the user
   2. **Common protocols** on handling medical situations (e.g. fever, stomach ache) or refund policies etc., which need to be **matched with the user queries in real-time**
 - The code should be **robust and idiot-proof** to handle bad inputs, large inputs, and other edge cases that can occur in the real world.
-
-### Timebox
-
-- Designed to be doable in **a day or two (8–12 hours)**.
-- Don't kill yourself over it – we care much more about **how you build** than how many extras you cram in.
-- If you leave things out due to time, **document it in the README**.
-
 ---
-
-## Submission
-
-Please send the following to **[jai@cure.link](mailto:jai@cure.link)**:
-
-1. **GitHub repository link** (public)
-  - With all source code
-  - With clear instructions to run backend & frontend
-2. **Deployed project URL**
-  Some free options: Render, Vercel, Netlify, and many more
-
----
-
-## README Must Include
-
-### 1. How to run it locally (step by step)
-
-### 2. How to set up DB (migrations/seed)
-
-### 3. How to configure env vars
-
-   (e.g. `OPENAI_API_KEY` or `ANTHROPIC_API_KEY`)
-
-### 4. Short architecture overview
-
-- How you structured the backend (layers, modules)
-- Any interesting design decisions
-
-### 5. LLM notes
-
-- Which provider you used
-- How you're prompting it
-
-### 6. Trade‑offs & “If I had more time…” section
-
